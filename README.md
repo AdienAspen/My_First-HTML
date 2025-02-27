@@ -1,5 +1,7 @@
 WebApp Starter 🚀
+
 Description
+
 WebApp Starter is a simple yet powerful boilerplate for quickly setting up a modern web application. It provides a solid foundation with pre-configured tools and best practices to help developers focus on building their application instead of configuring the environment.
 
 Why This Project?
